@@ -163,7 +163,7 @@
     }
 
     .question-text.not-correct {
-        color: #228b22;
+        color: #dc143c;
     }
 
     small {
