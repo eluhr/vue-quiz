@@ -55,6 +55,11 @@
 
     th,td {
         padding: 10px;
+        word-break: break-all;
+        -webkit-hyphens: auto;
+        -moz-hyphens: auto;
+        -ms-hyphens: auto;
+        hyphens: auto;
     }
 
     tbody tr:nth-child(odd) {

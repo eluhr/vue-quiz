@@ -22,12 +22,9 @@
     html {
       font-size: 2em;
     }
-
-    html,body {
-        height: 100%;
-    }
     body {
         margin: 0;
+        padding: 0;
         -webkit-user-select: none;
         -moz-user-select: none;
         -ms-user-select: none;

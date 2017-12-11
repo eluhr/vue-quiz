@@ -13,6 +13,9 @@
 </script>
 
 <style scoped>
+    .home {
+        height: calc(100vh - 80px);
+    }
     a {
         background-color: #6495ed;
         padding: 10px;
