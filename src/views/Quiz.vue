@@ -91,7 +91,7 @@
         -o-transition: all 250ms ease-in-out;
         transition: all 250ms ease-in-out;
         cursor: pointer;
-        outline: 4px solid transparent;
+        outline: 2px solid transparent;
     }
 
     label:hover,input:checked + label {
@@ -115,8 +115,8 @@
     }
 
     .responses {
-        margin-right: -18px;
-        margin-left: -18px;
+        margin-right: -20px;
+        margin-left: -20px;
     }
 
     .responses:before, .responses:after {
@@ -126,12 +126,12 @@
     }
 
     .responses.answered .response label {
-        outline: 4px solid #dc143c;
+        outline: 2px solid #dc143c;
         color: #dc143c;
     }
 
     .responses.answered .response label.correct{
-        outline: 4px solid #228b22;
+        outline: 2px solid #228b22;
         color: #228b22;
     }
 

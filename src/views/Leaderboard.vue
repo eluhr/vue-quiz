@@ -55,7 +55,9 @@
 
     th,td {
         padding: 10px;
+        -ms-word-break: break-all;
         word-break: break-all;
+        word-break: break-word;
         -webkit-hyphens: auto;
         -moz-hyphens: auto;
         -ms-hyphens: auto;
