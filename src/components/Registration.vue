@@ -37,6 +37,7 @@
 <style scoped>
 
     input {
+        border-radius: 0;
         border: none;
         width: 100%;
         padding: 10px 10px 5px;
