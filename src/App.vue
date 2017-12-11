@@ -70,7 +70,6 @@
 
     a {
         display: block;
-        color: #6495ed;
         text-decoration: none;
         -webkit-transition: all 250ms ease-in-out;
         -moz-transition: all 250ms ease-in-out;

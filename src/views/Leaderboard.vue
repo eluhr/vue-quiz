@@ -76,4 +76,7 @@
     p {
         text-align: center;
     }
+    a {
+        color: #6495ed;
+    }
 </style>
