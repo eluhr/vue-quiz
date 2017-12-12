@@ -1,4 +1,4 @@
-# quiz
+# Quiz
 
 > A Vue.js quiz
 
