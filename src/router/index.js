@@ -8,7 +8,6 @@ import Leaderboard from '@/views/Leaderboard'
 Vue.use(Router)
 
 export default new Router({
-  mode: 'history',
   routes: [
     {
       path: '/',

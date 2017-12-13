@@ -1,73 +1,271 @@
 [
   {
-    "text": "Question 1",
+    "text": "Was ist \"domms Gschwätz\"?",
     "responses": [
       {
-        "text": "Answer 1",
+        "text": "Dummes Gesindel"
+      },
+      {
+        "text": "Dumme Arbeit"
+      },
+      {
+        "text": "Dummes Gerede",
         "correct": true
       },
       {
-        "text": "Answer 2"
-      },
-      {
-        "text": "Answer 3"
-      },
-      {
-        "text": "Answer 4"
+        "text": "Dumme Frage"
       }
     ]
   },
   {
-    "text": "Question 2",
+    "text": "Was ist ein \"Bibberle\"?",
     "responses": [
       {
-        "text": "Answer 1"
+        "text": "Welpe"
       },
       {
-        "text": "Answer 2",
-        "correct": true
+        "text": "Kleines Kätzchen"
       },
       {
-        "text": "Answer 3"
+        "text": "Baby"
       },
       {
-        "text": "Answer 4"
-      }
-    ]
-  },
-  {
-    "text": "Question 3",
-    "responses": [
-      {
-        "text": "Answer 1"
-      },
-      {
-        "text": "Answer 2"
-      },
-      {
-        "text": "Answer 3"
-      },
-      {
-        "text": "Answer 4",
+        "text": "Küken",
         "correct": true
       }
     ]
   },
   {
-    "text": "Question 4",
+    "text": "Was will ein Schwabe, wenn er \"Gsälz\" verlangt?",
     "responses": [
       {
-        "text": "Answer 1"
+        "text": "Butter"
       },
       {
-        "text": "Answer 2"
+        "text": "Honig"
       },
       {
-        "text": "Answer 3",
+        "text": "Marmelade",
         "correct": true
       },
       {
-        "text": "Answer 4"
+        "text": "Salz"
+      }
+    ]
+  },
+  {
+    "text": "Was ist ein oder eine \"Gosch\"?",
+    "responses": [
+      {
+        "text": "Münze"
+      },
+      {
+        "text": "Mund",
+        "correct": true
+      },
+      {
+        "text": "Geldbeutel"
+      },
+      {
+        "text": "Glocke"
+      }
+    ]
+  },
+  {
+    "text": "Mit einem \"Muckabatscher\" ...",
+    "responses": [
+      {
+        "text": "... schützt man sich vor der Sonne"
+      },
+      {
+        "text": "... tötet man Fliegen",
+        "correct": true
+      },
+      {
+        "text": "... säubert man den Tisch"
+      },
+      {
+        "text": "... ist nicht zu spaßen"
+      }
+    ]
+  },
+  {
+    "text": "Was ist ein oder eine \"Ebbiere\"?",
+    "responses": [
+      {
+        "text": "Johannisbeere"
+      },
+      {
+        "text": "Erdbeere"
+      },
+      {
+        "text": "Rosenkohl"
+      },
+      {
+        "text": "Kartoffel",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "Wo kann man \"Wecka\" kaufen?",
+    "responses": [
+      {
+        "text": "Beim Bäcker",
+        "correct": true
+      },
+      {
+        "text": "In einem Elektronikladen"
+      },
+      {
+        "text": "In der Apotheke"
+      },
+      {
+        "text": "Bei einem Autohändler"
+      }
+    ]
+  },
+  {
+    "text": "Was will der Sohn von seinem Vater, wenn er fragt: \"Papa, bebsch du des?\"",
+    "responses": [
+      {
+        "text": "Machst du das?"
+      },
+      {
+        "text": "Hast du das?"
+      },
+      {
+        "text": "Klebst du das?",
+        "correct": true
+      },
+      {
+        "text": "Verstehst du das?"
+      }
+    ]
+  },
+  {
+    "text": "Was sind \"Breschling\"?",
+    "responses": [
+      {
+        "text": "Birnen"
+      },
+      {
+        "text": "Erdbeeren",
+        "correct": true
+      },
+      {
+        "text": "Plize"
+      },
+      {
+        "text": "Wildschweine"
+      }
+    ]
+  },
+  {
+    "text": "\"Gutsle\" sind ...",
+    "responses": [
+      {
+        "text": "... Gläser"
+      },
+      {
+        "text": "... Grundstücke"
+      },
+      {
+        "text": "... Großeltern"
+      },
+      {
+        "text": "... Plätzchen",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "Was versteht man unter \"Wiebele\"?",
+    "responses": [
+      {
+        "text": "Bohnen"
+      },
+      {
+        "text": "Eine bestimmte Kekssorte",
+        "correct": true
+      },
+      {
+        "text": "Kleinwagen"
+      },
+      {
+        "text": "Ein Mofa"
+      }
+    ]
+  },
+  {
+    "text": "Wenn jemand zu dir sagt: \"Du bisch 'n Käpsele!\", was meint er dann?",
+    "responses": [
+      {
+        "text": "Du bist schlau!",
+        "correct": true
+      },
+      {
+        "text": "Du bist schüchtern!"
+      },
+      {
+        "text": "Du bist sportlich!"
+      },
+      {
+        "text": "Du bist hübsch!"
+      }
+    ]
+  },
+  {
+    "text": "Ein \"Fetz\" ist ...",
+    "responses": [
+      {
+        "text": "Ein Minirock"
+      },
+      {
+        "text": "Eine Hundeart"
+      },
+      {
+        "text": "Ein Stück Stoff"
+      },
+      {
+        "text": "Ein freches Kind",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "Ein \"muckaseggele\" bedeutet ...",
+    "responses": [
+      {
+        "text": "Moskito"
+      },
+      {
+        "text": "Schnaps"
+      },
+      {
+        "text": "Ein Sack"
+      },
+      {
+        "text": "Ein bisschen",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "text": "Tschüss auf Schwäbisch heißt ...",
+    "responses": [
+      {
+        "text": "Alse"
+      },
+      {
+        "text": "Ade",
+        "correct": true
+      },
+      {
+        "text": "Tschau"
+      },
+      {
+        "text": "Tschissle"
       }
     ]
   }

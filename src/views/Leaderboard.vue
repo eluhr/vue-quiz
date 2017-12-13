@@ -1,6 +1,6 @@
 <template>
     <div class="leaderboard">
-        <router-link to="/">Zurück</router-link>
+        <router-link to="/"><img src="/static/files/arrow-back.svg" alt="Zurück"></router-link>
         <h1>Highscore-Tabelle</h1>
         <table v-if="persons.length > 0">
             <thead>
@@ -78,5 +78,8 @@
     }
     a {
         color: #6495ed;
+    }
+    a img {
+        height: 20px;
     }
 </style>

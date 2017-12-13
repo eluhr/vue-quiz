@@ -18,8 +18,8 @@
             <registration :score="score()"></registration>
         </div>
         <div v-else class="control-buttons">
-            <button v-show="questionIndex !== 0" @click="previousQuestion()">Vorherige Frage</button>
-            <button v-show="isDisabled(questionIndex) && !isLastQuestion()" @click="nextQuestion()">Nächste Frage</button>
+            <button v-show="questionIndex !== 0" @click="previousQuestion()"><img src="/static/files/arrow-left.svg" alt="Vorherige Frage"></button>
+            <button v-show="isDisabled(questionIndex) && !isLastQuestion()" @click="nextQuestion()"><img src="/static/files/arrow-right.svg" alt="Nächste Frage"></button>
             <button v-show="isLastQuestion() && isDisabled(questionIndex)" @click="nextQuestion()">Abschließen</button>
         </div>
     </div>
@@ -168,6 +168,10 @@
 
     small {
         margin-top: 20px;
+    }
+
+    button img {
+        height: 20px;
     }
 
 </style>
