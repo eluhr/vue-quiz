@@ -41,7 +41,7 @@
         border: none;
         width: 100%;
         padding: 10px 10px 5px;
-        border-bottom: 4px solid #808080;
+        border-bottom: 4px solid #ff8001;
         margin-bottom: 20px;
         font-size: 1em;
         -webkit-transition: all 250ms ease-in-out;
@@ -52,6 +52,6 @@
     }
 
     input:focus, input:hover {
-        border-bottom-color: #6287de;
+        border-bottom-color: #ed7701;
     }
 </style>

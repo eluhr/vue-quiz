@@ -17,7 +17,7 @@
         height: calc(100vh - 80px);
     }
     a {
-        background-color: #6495ed;
+        background-color: #ff8001;
         padding: 10px;
         color: #ffffff;
         cursor: pointer;
@@ -31,6 +31,6 @@
     }
 
     a:hover,a:active {
-        background-color: #6287de;
+        background-color: #ed7701;
     }
 </style>

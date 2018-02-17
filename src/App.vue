@@ -16,7 +16,7 @@
         letter-spacing: 0.005em;
         -webkit-font-smoothing: antialiased;
         font-smoothing: antialiased;
-        font-weight: 300;
+        font-weight: 400;
     }
 
     html {
@@ -25,6 +25,7 @@
     body {
         margin: 0;
         padding: 0;
+        color: #212121;
         -webkit-user-select: none;
         -moz-user-select: none;
         -ms-user-select: none;
@@ -41,7 +42,7 @@
     }
 
     #app {
-        margin: 40px;
+        margin: 15px 30px;
     }
     h1 {
         margin-top: 0;
@@ -51,7 +52,7 @@
 
     button {
         font-size: 1em;
-        background-color: #6495ed;
+        background-color: #ff8001;
         border-radius: 0;
         border: none;
         padding: 10px;
@@ -65,7 +66,7 @@
     }
 
     button:hover,button:active {
-        background-color: #6287de;
+        background-color: #ed7701;
     }
 
     a {
@@ -78,7 +79,7 @@
         transition: all 250ms ease-in-out;
     }
     a:hover,a:active {
-        color: #6287de;
+        color: #ed7701;
     }
 
     @media (max-width: 768px) {

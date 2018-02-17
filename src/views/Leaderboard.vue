@@ -70,16 +70,16 @@
     }
 
     thead tr {
-        background-color: #6495ed;
+        background-color: #ff8001;
         color: #ffffff;
     }
     p {
         text-align: center;
     }
     a {
-        color: #6495ed;
+        color: #ff8001;
     }
     a img {
-        height: 20px;
+        height: 40px;
     }
 </style>
