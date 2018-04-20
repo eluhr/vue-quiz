@@ -27,7 +27,7 @@
             score: this.score
           })
           localStorage.setItem('leaderboard', JSON.stringify(persons))
-          window.location = '/'
+          window.location = '/leaderboard'
         }
       }
     }

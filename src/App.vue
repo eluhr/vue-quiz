@@ -11,12 +11,23 @@
 </script>
 
 <style>
+
+    @import "assets/bootstrap.min.css";
+    @font-face {
+        font-family: garamontamstsb;
+        src: url(/static/files/GaramontAmstSB-Roman.otf);
+    }
+
     * {
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-family: garamontamstsb, "Helvetica Neue", Helvetica, Arial, sans-serif;
         letter-spacing: 0.005em;
         -webkit-font-smoothing: antialiased;
         font-smoothing: antialiased;
         font-weight: 400;
+    }
+
+    html,body {
+        background-color: #fff9d7;
     }
 
     html {
@@ -25,7 +36,7 @@
     body {
         margin: 0;
         padding: 0;
-        color: #212121;
+        color: #000000;
         -webkit-user-select: none;
         -moz-user-select: none;
         -ms-user-select: none;
@@ -52,11 +63,11 @@
 
     button {
         font-size: 1em;
-        background-color: #ff8001;
+        background-color: #fff9d7;
         border-radius: 0;
         border: none;
         padding: 10px;
-        color: #ffffff;
+        color: #000000;
         cursor: pointer;
         -webkit-transition: all 250ms ease-in-out;
         -moz-transition: all 250ms ease-in-out;
@@ -66,7 +77,7 @@
     }
 
     button:hover,button:active {
-        background-color: #ed7701;
+        background-color: #fff9d7;
     }
 
     a {
@@ -77,9 +88,6 @@
         -ms-transition: all 250ms ease-in-out;
         -o-transition: all 250ms ease-in-out;
         transition: all 250ms ease-in-out;
-    }
-    a:hover,a:active {
-        color: #ed7701;
     }
 
     @media (max-width: 768px) {

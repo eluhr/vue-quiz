@@ -1,272 +1,274 @@
-[
-  {
-    "text": "Was ist \"domms Gschwätz\"?",
-    "responses": [
+{
+  "questions": [
+    {
+      "text": "Was ist ein Güller",
+      "category": "allemanisch",
+      "bg_image": "gueller-hahn.jpg",
+      "responses": [
+        {
+          "text": "Ente"
+        },
+        {
+          "text": "Bär"
+        },
+        {
+          "text": "Hahn",
+          "correct": true
+        },
+        {
+          "text": "Hase"
+        }
+      ]
+    },
+    {
+      "text": "Was bedeutet Bepp",
+      "category": "allemanisch",
+      "bg_image": "bepp-klebstoff.jpg",
+      "responses": [
+        {
+          "text": "Schere"
+        },
+        {
+          "text": "Marker"
+        },
+        {
+          "text": "Stift"
+        },
+        {
+          "text": "Klebstoff",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Was ist ein Sparchl",
+      "category": "fraenkisch",
+      "bg_image": "sparchl-spargel.jpg",
+      "responses": [
+        {
+          "text": "Werkzeug"
+        },
+        {
+          "text": "Arbeiter"
+        },
+        {
+          "text": "Spargel",
+          "correct": true
+        },
+        {
+          "text": "Insekt"
+        }
+      ]
+    },
+    {
+      "text": "Was ist Wöscht",
+      "category": "fraenkisch",
+      "bg_image": "Woescht-Wurst.jpg",
+      "responses": [
+        {
+          "text": "Käse"
+        },
+        {
+          "text": "Wurst",
+          "correct": true
+        },
+        {
+          "text": "Fisch"
+        },
+        {
+          "text": "Getränk"
+        }
+      ]
+    },
+    {
+      "text": "Was ist ein Moggeli",
+      "category": "fraenkisch",
+      "bg_image": "moggeli-kuh.jpg",
+      "responses": [
+        {
+          "text": "Katze"
+        },
+        {
+          "text": "Kuh",
+          "correct": true
+        },
+        {
+          "text": "Pferd"
+        },
+        {
+          "text": "Gans"
+        }
+      ]
+    },
+    {
+      "text": "Was bedeutet Riaba",
+      "category": "schwaebisch",
+      "bg_image": "riaba-karotte.jpg",
+      "responses": [
+        {
+          "text": "Apfel"
+        },
+        {
+          "text": "Erdbeere"
+        },
+        {
+          "text": "Kohl"
+        },
+        {
+          "text": "Karotte",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "text": "Was ist ein Schlotzer",
+      "category": "schwaebisch",
+      "bg_image": "schlotzer-volksfest.jpg",
+      "responses": [
+        {
+          "text": "Süßigkeit",
+          "correct": true
+        },
+        {
+          "text": "Karusell"
+        },
+        {
+          "text": "Freches Kind"
+        },
+        {
+          "text": "Achterbahn"
+        }
+      ]
+    },
+    {
+      "text": "was ist ein Herddäbber",
+      "category": "schwaebisch",
+      "bg_image": "herddaepper-topflappen.jpg",
+      "responses": [
+        {
+          "text": "Löffel"
+        },
+        {
+          "text": "Pfannenwender"
+        },
+        {
+          "text": "Topflappen",
+          "correct": true
+        },
+        {
+          "text": "Mixer"
+        }
+      ]
+    },
+    {
+      "text": "Was ist eine Bolle",
+      "category": "badisch",
+      "bg_image": "Bolle-Eiskugel.jpg",
+      "responses": [
+        {
+          "text": "Biersorte"
+        },
+        {
+          "text": "Eiskugel",
+          "correct": true
+        },
+        {
+          "text": "Grillzange"
+        },
+        {
+          "text": "Menschengruppe"
+        }
+      ]
+    },
+    {
+      "text": "Was bedeutet Gugge",
+      "category": "badisch",
+      "bg_image": "Gugge-Tasche.jpg",
+      "responses": [
+        {
+          "text": "Hut"
+        },
+        {
+          "text": "Brille"
+        },
+        {
+          "text": "Armband"
+        },
+        {
+          "text": "Tasche",
+          "correct": true
+        }
+      ]
+    }
+  ],
+  "evaluations": {
+    "scores": [
       {
-        "text": "Dummes Gesindel"
+        "score": 0,
+        "textId": 1
       },
       {
-        "text": "Dumme Arbeit"
+        "score": 1,
+        "textId": 1
       },
       {
-        "text": "Dummes Gerede",
-        "correct": true
+        "score": 2,
+        "textId": 1
       },
       {
-        "text": "Dumme Frage"
+        "score": 3,
+        "textId": 2
+      },
+      {
+        "score": 4,
+        "textId": 2
+      },
+      {
+        "score": 5,
+        "textId": 3
+      },
+      {
+        "score": 6,
+        "textId": 3
+      },
+      {
+        "score": 7,
+        "textId": 4
+      },
+      {
+        "score": 8,
+        "textId": 4
+      },
+      {
+        "score": 9,
+        "textId": 5
+      },
+      {
+        "score": 10,
+        "textId": 5
       }
-    ]
-  },
-  {
-    "text": "Was ist ein \"Bibberle\"?",
-    "responses": [
+    ],
+    "texts": [
       {
-        "text": "Welpe"
+        "id": 1,
+        "text": "Zum ersten Mal in Baden-Württemberg?"
       },
       {
-        "text": "Kleines Kätzchen"
+        "id": 2,
+        "text": "Gut gemacht, aber Sie sollten noch etwas üben!"
       },
       {
-        "text": "Baby"
+        "id": 3,
+        "text": "Sie sind ein echter Baden-Württemberger!"
       },
       {
-        "text": "Küken",
-        "correct": true
-      }
-    ]
-  },
-  {
-    "text": "Was will ein Schwabe, wenn er \"Gsälz\" verlangt?",
-    "responses": [
-      {
-        "text": "Butter"
+        "id": 4,
+        "text": "Schwäbisch, Fränkisch und Allemanisch ist für Sie mehr als nur ein Dialekt!"
       },
       {
-        "text": "Honig"
-      },
-      {
-        "text": "Marmelade",
-        "correct": true
-      },
-      {
-        "text": "Salz"
-      }
-    ]
-  },
-  {
-    "text": "Was ist ein oder eine \"Gosch\"?",
-    "responses": [
-      {
-        "text": "Münze"
-      },
-      {
-        "text": "Mund",
-        "correct": true
-      },
-      {
-        "text": "Geldbeutel"
-      },
-      {
-        "text": "Glocke"
-      }
-    ]
-  },
-  {
-    "text": "Mit einem \"Muckabatscher\" ...",
-    "responses": [
-      {
-        "text": "... schützt man sich vor der Sonne"
-      },
-      {
-        "text": "... tötet man Fliegen",
-        "correct": true
-      },
-      {
-        "text": "... säubert man den Tisch"
-      },
-      {
-        "text": "... ist nicht zu spaßen"
-      }
-    ]
-  },
-  {
-    "text": "Was ist ein oder eine \"Ebbiere\"?",
-    "responses": [
-      {
-        "text": "Johannisbeere"
-      },
-      {
-        "text": "Erdbeere"
-      },
-      {
-        "text": "Rosenkohl"
-      },
-      {
-        "text": "Kartoffel",
-        "correct": true
-      }
-    ]
-  },
-  {
-    "text": "Wo kann man \"Wecka\" kaufen?",
-    "responses": [
-      {
-        "text": "Beim Bäcker",
-        "correct": true
-      },
-      {
-        "text": "In einem Elektronikladen"
-      },
-      {
-        "text": "In der Apotheke"
-      },
-      {
-        "text": "Bei einem Autohändler"
-      }
-    ]
-  },
-  {
-    "text": "Was will der Sohn von seinem Vater, wenn er fragt: \"Papa, bebsch du des?\"",
-    "responses": [
-      {
-        "text": "Machst du das?"
-      },
-      {
-        "text": "Hast du das?"
-      },
-      {
-        "text": "Klebst du das?",
-        "correct": true
-      },
-      {
-        "text": "Verstehst du das?"
-      }
-    ]
-  },
-  {
-    "text": "Was sind \"Breschling\"?",
-    "responses": [
-      {
-        "text": "Birnen"
-      },
-      {
-        "text": "Erdbeeren",
-        "correct": true
-      },
-      {
-        "text": "Plize"
-      },
-      {
-        "text": "Wildschweine"
-      }
-    ]
-  },
-  {
-    "text": "\"Gutsle\" sind ...",
-    "responses": [
-      {
-        "text": "... Gläser"
-      },
-      {
-        "text": "... Grundstücke"
-      },
-      {
-        "text": "... Großeltern"
-      },
-      {
-        "text": "... Plätzchen",
-        "correct": true
-      }
-    ]
-  },
-  {
-    "text": "Was versteht man unter \"Wiebele\"?",
-    "responses": [
-      {
-        "text": "Bohnen"
-      },
-      {
-        "text": "Eine bestimmte Kekssorte",
-        "correct": true
-      },
-      {
-        "text": "Kleinwagen"
-      },
-      {
-        "text": "Ein Mofa"
-      }
-    ]
-  },
-  {
-    "text": "Wenn jemand zu dir sagt: \"Du bisch 'n Käpsele!\", was meint er dann?",
-    "responses": [
-      {
-        "text": "Du bist schlau!",
-        "correct": true
-      },
-      {
-        "text": "Du bist schüchtern!"
-      },
-      {
-        "text": "Du bist sportlich!"
-      },
-      {
-        "text": "Du bist hübsch!"
-      }
-    ]
-  },
-  {
-    "text": "Ein \"Fetz\" ist ...",
-    "responses": [
-      {
-        "text": "Ein Minirock"
-      },
-      {
-        "text": "Eine Hundeart"
-      },
-      {
-        "text": "Ein Stück Stoff"
-      },
-      {
-        "text": "Ein freches Kind",
-        "correct": true
-      }
-    ]
-  },
-  {
-    "text": "Ein \"muckaseggele\" bedeutet ...",
-    "responses": [
-      {
-        "text": "Moskito"
-      },
-      {
-        "text": "Schnaps"
-      },
-      {
-        "text": "Ein Sack"
-      },
-      {
-        "text": "Ein bisschen",
-        "correct": true
-      }
-    ]
-  },
-  {
-    "text": "Tschüss auf Schwäbisch heißt ...",
-    "responses": [
-      {
-        "text": "Alse"
-      },
-      {
-        "text": "Ade",
-        "correct": true
-      },
-      {
-        "text": "Tschau"
-      },
-      {
-        "text": "Tschissle"
+        "id": 5,
+        "text": "Sie sind Mundart-Experte. Glückwunsch!"
       }
     ]
   }
-]
+}

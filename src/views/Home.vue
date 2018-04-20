@@ -1,8 +1,7 @@
 <template>
     <div class="home">
         <h1>Quiz</h1>
-        <router-link to="/quiz">Start</router-link>
-        <router-link to="/leaderboard">Highscore-Tabelle</router-link>
+        <router-link to="/quiz">Neues Spiel</router-link>
     </div>
 </template>
 
@@ -17,9 +16,13 @@
         height: calc(100vh - 80px);
     }
     a {
-        background-color: #ff8001;
+        background-color: #fff9d7;
+        border: 1px solid #000000;
+        max-width: 200px;
+        display: block;
+        margin: 0 auto;
         padding: 10px;
-        color: #ffffff;
+        color: #000000;
         cursor: pointer;
         margin-bottom: 20px;
         text-align: center;
@@ -31,6 +34,7 @@
     }
 
     a:hover,a:active {
-        background-color: #ed7701;
+        background-color: #000000;
+        color: #fff9d7;
     }
 </style>
